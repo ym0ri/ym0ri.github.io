@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "first post & about this website"
 date:   2023-06-20 16:31:19 +1000
 categories: 
