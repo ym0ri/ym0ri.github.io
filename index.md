@@ -2,6 +2,9 @@
 layout: single
 author_profile: true
 permalink: /
+# Images
+header: 
+    image: /assets/images/griffin-wooldridge-EZlMkHgbjPc-unsplash.jpg
 ---
 
 Hi, I'm Yoshi. 

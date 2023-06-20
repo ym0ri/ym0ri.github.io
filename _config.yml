@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-AU"
-title                    : "yoshiya mori"
+title                    : "yoshi's research hideout"
 title_separator          : "-"
-subtitle                 : "phd student" # site tagline that appears below site title in masthead
+subtitle                 : "" # site tagline that appears below site title in masthead
 name                     : "yoshiya mori"
 description              : "yoshi's phd website"
 url                      : https://ym0ri.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Yoshiya Mori"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Astrophysics PhD student at Monash University."
+  bio              : "Astrophysics PhD student @ Monash University."
   location         : "Melbourne, Australia"
   email            : yoshiya.mori@monash.edu
   links:
