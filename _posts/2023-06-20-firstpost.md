@@ -6,7 +6,18 @@ categories:
 author: 'yoshi'
 ---
 
-Welcome to my website!
+Welcome to my website! Here, I'll write about my research in stellar astrophysics. 
+Some specific topics I'm interested in are:
+
+- Low-mass stellar evolution & modelling
+
+  - The s-process and third dredge-up on the asymptotic giant branch (AGB)
+  - Carbon stars and S-type stars
+  - Pulsation of AGB stars - Miras, semi-regular variables
+
+  - Thermohaline mixing on the red giant branch
+  - How lithium changes throughout stellar evolution, and why it's so complicated
+
 
 <!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
