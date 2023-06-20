@@ -1,10 +1,8 @@
 ---
 title: About
-permalink: /
+permalink: /about/
 layout: single
 author_profile: true
-header: 
-    image: /assets/images/griffin-wooldridge-EZlMkHgbjPc-unsplash.jpg
 ---
 
 Hi, I'm Yoshi. 
