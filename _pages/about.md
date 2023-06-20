@@ -3,7 +3,6 @@ title: About
 permalink: /
 layout: single
 author_profile: true
-# Images
 header: 
     image: /assets/images/griffin-wooldridge-EZlMkHgbjPc-unsplash.jpg
 ---
