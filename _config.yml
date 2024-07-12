@@ -105,14 +105,14 @@ analytics:
 # Site Author
 author:
   name             : "Yoshiya Mori"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Yoshiya-Mori_img.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Astrophysics PhD student @ Monash University"
   location         : "Melbourne, Australia"
-  email            : yoshiya.mori@monash.edu
+  # email            : yoshiya.mori@monash.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: yoshiya.mori@monash.edu
+      url: yoshiya.mori@monash.edu
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -128,6 +128,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: www.linkedin.com/in/yoshiya-mori
 
 # Site Footer
 footer:
