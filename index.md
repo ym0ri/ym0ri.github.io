@@ -7,4 +7,3 @@ excerpt: >
     Hi, I'm Yoshi. I'm a PhD student at Monash University, researching stellar astrophysics.
 author_profile: true
 ---
-
