@@ -9,10 +9,9 @@ Conferences:
 
 2024
 
-    Planned:
-- Transients Down Under (29 January - 2 February 2024), Melbourne, Australia.
--  ANITA workshop
-- 
+- ASTRO 3D Science Meeting 3-7 June (Sydney, Australia). Contributed talk.
+- Advances in Cool Evolved Stars, 8-12 July (Monash University, Australia). Contributed talk.
 
 2023
-- Nuclei in the Cosmos XVII (17-22 September 2023), Daejeon, Korea. Poster presentation.
+- Nuclei in the Cosmos XVII, 17-22 September (Daejeon, Korea). Contributed poster presentation.
+
