@@ -18,6 +18,6 @@ Some more specific things I am interested in are:
     - Stellar evolution codes
     - Thermohaline mixing on the red giant branch
 
-I also like to play music, and dabble in various instruments!
+<!-- I also like to play music, and dabble in various instruments!
  
-You may also see me playing Japanese drums (taiko) at your local Japanese festival or event. 
+You may also see me playing Japanese drums (taiko) at your local Japanese festival or event.  -->
