@@ -1,18 +1,9 @@
 ---
-# title: About
-permalink: /
+title: About
+permalink: /about/
 layout: single
-author_profile: true
+author_profile: false
 ---
-<!-- ---
-layout: home
-permalink: /
-# header:     
-    # overlay_image: /assets/images/griffin-wooldridge-EZlMkHgbjPc-unsplash.jpg
-# excerpt: > 
-    # Hi, I'm Yoshi. I'm a PhD student at Monash University, researching stellar astrophysics.
-author_profile: true
---- -->
 
 Hi, I'm Yoshi. Welcome to my research page!
 
@@ -37,3 +28,8 @@ Some specific (and randomly ordered) things I am interested in include...
     - Gaussian process regression
 
 On this website, you'll find my [publications](/publications/) and [talks](/talks/), as well as more details and handy links related to my [research](/research).
+
+<!-- I also like to play music, and dabble in various instruments!
+ 
+You may also see me playing Japanese drums (taiko) at your local Japanese festival or event.  -->
+

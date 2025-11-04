@@ -3,21 +3,25 @@ permalink: /research/
 title: Research
 ---
 
-### Publications
+Some handy links & papers.
 
-Coming soon...
+### Asymptotic giant branch stars
 
-### Public talks
+- [The Dawes Review 2: Nucleosynthesis and Stellar Yields of Low- and Intermediate-Mass Single Stars (Karakas & Lattanzio, 2014)](https://ui.adsabs.harvard.edu/abs/2014PASA...31...30K/abstract)
+- [Mass loss of stars on the asymptotic giant branch. Mechanisms, models and measurements (Höfner & Olofsson, 2018)](https://ui.adsabs.harvard.edu/abs/2018A%26ARv..26....1H/abstract)
 
-Advances in Cool Evolved Stars, 2024 (Monash University, Australia)
+### Long period variable stars
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X_T-02FVS0Q?si=e0F1bMeXssYBGOcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Useful light curve databases for long period variables
+- [AAVSO Light curve generator](https://www.aavso.org/LCGv2/)
+- [ASAS-SN Sky Patrol V1.0 (V-band)](https://asas-sn.osu.edu/)
+- [ASAS-SN Sky Patrol V2.0 (V- & g-band)](http://asas-sn.ifa.hawaii.edu/skypatrol/)
+- [ASAS](https://www.astrouw.edu.pl/asas/?page=aasc)
+- [OGLE III](https://ogledb.astrouw.edu.pl/~ogle/CVS/#lpv)
+- [OGLE IV (Miras)](https://ogledb.astrouw.edu.pl/~ogle/OCVS/lpv_query.php)
+- [Kamogata/Kiso/Kyoto Wise-field Survey (KWS)](http://kws.cetus-net.org/~maehara/VSdata.py)
 
-### Other talks and poster presentations
+### Astrophysical time series
 
-Nuclei in the Cosmos, 2023, Poster presentation (Daejeon, South Korea)
-
-ASTRO 3D Annual Science Meeting, 2024, Contributed talk (Manly, NSW, Australia)
-
-IReNA Workshop on the Astrophysical Origins of Carbon, 2024, Contributed talk (NAOJ, Tokyo, Japan)
-
+- [Understanding the Lomb-Scargle Periodogram (VanderPlas, 2018)](https://ui.adsabs.harvard.edu/abs/2018ApJS..236...16V/abstract)
+- [celerite2 docs](https://celerite2.readthedocs.io/en/latest/#), [original celerite paper (Foreman-Mackey et al., 2017)](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F/abstract)
