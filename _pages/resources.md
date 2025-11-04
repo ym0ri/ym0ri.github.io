@@ -12,6 +12,8 @@ Handy links & papers.
 
 ### :telescope: Variable stars
 
+- [The International Variable Star Index (VSX)](https://vsx.aavso.org/index.php?view=search.top)
+
 Some light curve databases for variable stars.
 
 - [AAVSO Light curve generator](https://www.aavso.org/LCGv2/)
@@ -27,5 +29,13 @@ Some light curve databases for variable stars.
 
 - [Understanding the Lomb-Scargle Periodogram (VanderPlas, 2018)](https://ui.adsabs.harvard.edu/abs/2018ApJS..236...16V/abstract)
 - [celerite2 docs](https://celerite2.readthedocs.io/en/latest/#), [original celerite paper (Foreman-Mackey et al., 2017)](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F/abstract)
+- [A Visual Exploration of Gaussian Processes (Görtler et al.)](https://distill.pub/2019/visual-exploration-gaussian-processes/)
 
 <!-- ### :telescope: Observing -->
+
+### :milky_way: Miscellaneous
+
+- [AAT Skycam](https://aat-ops.anu.edu.au/skycam/all_sky_images.html)
+- [Colourful Nuclide Chart by Dr. Ed Simpson](https://people.physics.anu.edu.au/~ecs103/chart/)
+- [John Lattanzio's Stellar Evolution Website](https://users.monash.edu.au/~johnl/StellarEvolnV1/)
+- [nested](https://orteil.dashnet.org/nested)
