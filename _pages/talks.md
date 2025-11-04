@@ -3,7 +3,7 @@ permalink: /talks/
 title: Talks
 ---
 
-Talks and conferences I've been a part of.
+Conferences I've been a part of and some of my talks.
 
 ## Public talks
 
