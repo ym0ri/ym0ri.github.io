@@ -58,7 +58,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true # true, false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yoshiya Mori"
+  name             : "Yoshiya Mori (he/him)"
   avatar           : "/assets/images/Yoshiya-Mori_img.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Astrophysics PhD student @ Monash University"
+  bio              : "Astrophysics PhD student<br>@ Monash University"
   location         : "Melbourne, Australia"
   email            : yoshiya.mori@monash.edu
   links:
@@ -133,17 +133,17 @@ author:
       url: https://www.linkedin.com/in/yoshiya-mori
 
 # Site Footer
-footer:
-  links:
+# footer:
+#   links:
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
       # url:
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-facebook-square"
       # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: https://github.com/ym0ri
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: https://github.com/ym0ri
     # - label: "GitLab"
     #   icon: "fab fa-fw fa-gitlab"
       # url:
@@ -233,6 +233,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jemoji
 
 # mimic GitHub Pages with --safe
 whitelist:
