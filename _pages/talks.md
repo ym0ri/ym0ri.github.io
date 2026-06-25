@@ -5,7 +5,7 @@ title: Presentations & conferences
 
 Conferences I've been a part of and some of my talks.
 
-## :globe_with_meridians: Talks and poster presentations
+## Talks and poster presentations
 
 **2025**
 
@@ -21,7 +21,7 @@ Conferences I've been a part of and some of my talks.
 **2023**
 - Nuclei in the Cosmos XVII, September 2023<br>Poster presentation (Daejeon, South Korea)
 
-## :speaking_head: Public talks
+## Public talks
 
 Advances in Cool Evolved Stars, July 2024 (Monash University, Australia)
 

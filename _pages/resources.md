@@ -5,12 +5,12 @@ title: Resources
 
 Handy links & papers.
 
-### :star2: Asymptotic giant branch stars
+### Asymptotic giant branch stars
 
 - :book: [The Dawes Review 2: Nucleosynthesis and Stellar Yields of Low- and Intermediate-Mass Single Stars (Karakas & Lattanzio, 2014)](https://ui.adsabs.harvard.edu/abs/2014PASA...31...30K/abstract)
 - :book: [Mass loss of stars on the asymptotic giant branch. Mechanisms, models and measurements (Höfner & Olofsson, 2018)](https://ui.adsabs.harvard.edu/abs/2018A%26ARv..26....1H/abstract)
 
-### :telescope: Variable stars
+### Variable stars
 
 - [The International Variable Star Index (VSX)](https://vsx.aavso.org/index.php?view=search.top)
 
@@ -25,7 +25,7 @@ Some light curve databases for variable stars.
 - [OGLE III](https://ogledb.astrouw.edu.pl/~ogle/CVS/#lpv)
 - [OGLE IV (Miras)](https://ogledb.astrouw.edu.pl/~ogle/OCVS/lpv_query.php)
 
-### :desktop_computer: Astrophysical time series
+### Astrophysical time series
 
 - [Understanding the Lomb-Scargle Periodogram (VanderPlas, 2018)](https://ui.adsabs.harvard.edu/abs/2018ApJS..236...16V/abstract)
 - [celerite2 docs](https://celerite2.readthedocs.io/en/latest/#), [original celerite paper (Foreman-Mackey et al., 2017)](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F/abstract)
@@ -33,7 +33,7 @@ Some light curve databases for variable stars.
 
 <!-- ### :telescope: Observing -->
 
-### :milky_way: Miscellaneous
+### Miscellaneous
 
 - [AAT Skycam](https://aat-ops.anu.edu.au/skycam/all_sky_images.html)
 - [Colourful Nuclide Chart by Dr. Ed Simpson](https://people.physics.anu.edu.au/~ecs103/chart/)
